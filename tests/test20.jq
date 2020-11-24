@@ -1,0 +1,1 @@
+string-join(("Enland", "France", "Germany", "Switzerland", "Greece"), ",")

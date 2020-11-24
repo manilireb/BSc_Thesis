@@ -1,0 +1,1 @@
+for $i in (1 to 30) let $j:= $i mod 3 where $j = 0 return $i

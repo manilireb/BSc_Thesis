@@ -1,0 +1,1 @@
+for $i in (1 to 9) let $j:= $i mod 3 where $j eq 0 let $k:= $i * 2 return $k

@@ -1,0 +1,1 @@
+"foo" treat as string

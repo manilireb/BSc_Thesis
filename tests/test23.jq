@@ -1,0 +1,1 @@
+for $x in (1 to 10) where ($x - 2) gt 5 return $x * $x

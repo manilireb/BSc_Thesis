@@ -1,0 +1,1 @@
+for $i in (1 to 9) let $x:= ( for $j in (6 to $i) return $j ) return $x[($i - 6)]

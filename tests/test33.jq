@@ -1,0 +1,1 @@
+(true, false, false, true, false)[if ($$) then 2 else 1]

@@ -1,0 +1,1 @@
+for $i in (1 to 6) let $j:= (4 to 9)[$$ > $i] where $i ge 5 return $i + 1

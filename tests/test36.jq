@@ -1,0 +1,1 @@
+for $i in (10, 2, 123, 21, 234) let $j:= if (($i < 100)) then ($i * $i) else -($i) order by $j ascending return $j

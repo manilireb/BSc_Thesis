@@ -1,0 +1,1 @@
+for $i in json-file("/home/manuel/6-Semester/Thesis/data.json", 10) return $i 

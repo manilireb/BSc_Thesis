@@ -1,0 +1,1 @@
+(1 to 10)[( let $seg:= (1, 2, 3, 4) return $seg[2] )]

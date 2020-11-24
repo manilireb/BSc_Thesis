@@ -1,0 +1,1 @@
+-(for $i in (1 to 12) count $c where $c eq 5 return $i)

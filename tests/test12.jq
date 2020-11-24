@@ -1,0 +1,1 @@
+for $i in (1 to 9) group by $j := $i mod 2 return [$i]

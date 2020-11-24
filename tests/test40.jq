@@ -1,0 +1,1 @@
+-(( let $seq:= (1 to 12) let $j:= -(-(4)) return -($seq[-(-($j))]) ))

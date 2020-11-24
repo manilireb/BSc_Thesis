@@ -1,0 +1,10 @@
+/home/manuel/6-Semester/Thesis/bsc-reberma/cpp/build/CMakeFiles/jsoniqc.dir
+/home/manuel/6-Semester/Thesis/bsc-reberma/cpp/build/CMakeFiles/JSONiqCombineIncGen.dir
+/home/manuel/6-Semester/Thesis/bsc-reberma/cpp/build/CMakeFiles/mlir-tablegen-targets.dir
+/home/manuel/6-Semester/Thesis/bsc-reberma/cpp/build/CMakeFiles/intrinsics_gen.dir
+/home/manuel/6-Semester/Thesis/bsc-reberma/cpp/build/CMakeFiles/edit_cache.dir
+/home/manuel/6-Semester/Thesis/bsc-reberma/cpp/build/CMakeFiles/mlir-headers.dir
+/home/manuel/6-Semester/Thesis/bsc-reberma/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/manuel/6-Semester/Thesis/bsc-reberma/cpp/build/CMakeFiles/mlir-generic-headers.dir
+/home/manuel/6-Semester/Thesis/bsc-reberma/cpp/build/CMakeFiles/mlir-doc.dir
+/home/manuel/6-Semester/Thesis/bsc-reberma/cpp/build/CMakeFiles/JSONiqOpsIncGen.dir

@@ -1,0 +1,1 @@
+substring("Mister Spock", 8, 5)

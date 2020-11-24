@@ -1,0 +1,1 @@
+for $i in (1 to 9) for $j in (6 to 12) return $i + $j

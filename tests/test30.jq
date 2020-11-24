@@ -1,0 +1,1 @@
+if (((1 + 1) eq 2)) then {"foo" : "yes"} else {"foo" : false}

@@ -1,0 +1,1 @@
+for $i in (1 to 9) group by $j := $i mod 2, $k := $i mod 3, $m := $i mod 4 return [$i]

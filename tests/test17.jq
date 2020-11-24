@@ -1,0 +1,1 @@
+for $i in (12 to 60) let $j:= $i mod 3 where $j eq 0 order by $i descending return $i
